@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal Vidhani
-- 🔭 I’m currently working on C#, React.js, Python.
+- 🔭 I’m currently working on C#, React.js, Angular, Python.
 - 🌱 I’m currently learning Python, Azure, Java and AWS Cloud.
 - 📫 How to reach me www.linkedin.com/in/vishal-vidhani
 
