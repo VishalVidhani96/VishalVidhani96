@@ -1,14 +1,14 @@
 Hi 👋 My name is Vishal Vidhani
 ===============================
 
-Web and Software Developer
+Full-Stack Software Developer
 --------------------------
 
 I have been working as software developer since 3 years. I have worked on many different projects with different tech stack, which includes .NET, C#, Java , HTML 5, CSS 3, JavaScript, React.JS , TypeScript, and many more.
 
 * 🌍  I'm based in Koblenz, Germany
 * ✉️  You can contact me at [vk.vidhani2@gmail.com](mailto:vk.vidhani2@gmail.com)
-* 🧠  I'm learning Angular 11, Python, Scala, AWS, and Go.
+* 🧠  I'm learning Angular 11, Python, Scala, and Go
 * 🤝  I'm open to collaborating on EduTech application, FinTech projects, Learning Management Projects, and Time-Series Applications
 
 ### Skills
@@ -40,7 +40,7 @@ I have been working as software developer since 3 years. I have worked on many d
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/VishalVidhani96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vishal-vidhani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/VishalVidhani96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vishal-vidhani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
