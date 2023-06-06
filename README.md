@@ -4,7 +4,7 @@ Hi 👋 My name is Vishal Vidhani
 Full-Stack Software Developer
 --------------------------
 
-I have been working as software developer since 3 years. I have worked on many different projects with different tech stack, which includes .NET, C#, Java , HTML 5, CSS 3, JavaScript, React.JS , TypeScript, and many more.
+I have been working as software developer since 4 years. I have worked on many different projects with different tech stack, which includes .NET, C#, Java , HTML 5, CSS 3, JavaScript, React.JS , TypeScript, AngularJs, ExpressJs and many more.
 
 * 🌍  I'm based in Koblenz, Germany
 * ✉️  You can contact me at [vk.vidhani2@gmail.com](mailto:vk.vidhani2@gmail.com)
