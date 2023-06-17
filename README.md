@@ -8,7 +8,7 @@ I have been working as software developer since 4 years. I have worked on many d
 
 * 🌍  I'm based in Koblenz, Germany
 * ✉️  You can contact me at [vk.vidhani2@gmail.com](mailto:vk.vidhani2@gmail.com)
-* 🧠  I'm learning Angular 11, Python, Scala, and Go
+* 🧠  I'm learning Angular 11, Python, and Scala
 * 🤝  I'm open to collaborating on EduTech application, FinTech projects, Learning Management Projects, and Time-Series Applications
 
 ### Skills
